@@ -20,6 +20,7 @@ public class Main {
     } else {
       System.out.println("Não é um palíndromo.");
     }
+    scanner.close();
   }
 }
 
